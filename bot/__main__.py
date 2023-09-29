@@ -20,9 +20,9 @@ def start(message):
     if EMOJI_UI=="True":
         ui_msg = '''
 Hello Mate, ✌️
-→ Welcome to Server Monitoring Bot. 🤖
-→ With me you can get to know the status of your Server, VPS, VM or even your PC/Laptop.
-[👨‍💻 Connect with Dev @rajeshkannanoffl 🙋‍♂️]
+→ Welcome to Animxt's server bot. 🤖
+→ Created to know the server status.🔥
+
         '''
         bot.send_message(message.chat.id, ui_msg)
     else:
